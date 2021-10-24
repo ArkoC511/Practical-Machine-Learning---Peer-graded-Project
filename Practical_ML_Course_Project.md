@@ -1,4 +1,6 @@
 # Predict activity quality from activity monitors
+Arko Chattopadhyay
+24th October, 2021
 
 ##Synopsis
 
